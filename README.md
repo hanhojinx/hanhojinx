@@ -19,7 +19,7 @@ Tools & Platforms
 - 🌱 I’m currently interested in **MLOps/LLMOps**
 
 ## Contacts
-- Mail: seupjak@korea.ac.kr
+- Email: seupjak@korea.ac.kr
 - Linktree: [@seupjak](https://linktr.ee/permafrost_)
 - Instagram: [@hanhojin.official](https://www.instagram.com/hanhojin.official/)
 - X: [@hanhojinx](https://x.com/hanhojinx?s=11)

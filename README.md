@@ -4,7 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seupjak)](https://solved.ac/seupjak/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanhojinx&layout=compact&langs_count=8)
+![Top Langs by Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanhojinx&theme=tokyonight)
 
 
 ## Tech Stack

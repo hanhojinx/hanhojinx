@@ -1,6 +1,6 @@
 # Welcome to Hojin Han's Space!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hanhojinx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=hanhojinx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seupjak)](https://solved.ac/seupjak/)
 

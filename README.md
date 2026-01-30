@@ -1,6 +1,6 @@
 # Welcome to SeupArchive!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanhojinx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanhojinx)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seupjak)](https://solved.ac/seupjak/)
 

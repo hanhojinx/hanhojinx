@@ -44,9 +44,9 @@
 
 <img src="./assets/rule.svg" width="100%" height="2" alt="">
 
-<p align="center">
-  <img height="240" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanhojinx&theme=transparent" alt="Top languages by commit" />
-  <img height="240" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanhojinx&theme=transparent" alt="Top languages by repo" />
+<p>
+<img height="240" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanhojinx&theme=transparent" alt="Top languages by commit" />
+<img height="240" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanhojinx&theme=transparent" alt="Top languages by repo" />
 </p>
 
 </div>

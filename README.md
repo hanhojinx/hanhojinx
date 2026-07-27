@@ -61,7 +61,7 @@
 <!-- ═══════════════════════  Connect  ═══════════════════════ -->
 ### Contact
 
-<hr style="border: 0.2px solid #e1e4e8;">
+<hr style="border: 0.05px solid #e1e4e8;">
 
 <div align="center">
 

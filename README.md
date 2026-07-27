@@ -25,7 +25,7 @@
 <!-- ═══════════════════════  Tech Stack  ═══════════════════════ -->
 ### Tech Stack
 
----
+<img src="./assets/rule.svg" width="100%" height="2" alt="">
 
 ![Python](https://img.shields.io/badge/Python-06090C?style=flat-square&logo=python&logoColor=9FB3BF)
 ![C++](https://img.shields.io/badge/C%2B%2B-06090C?style=flat-square&logo=cplusplus&logoColor=9FB3BF)
@@ -42,7 +42,7 @@
 <!-- ═══════════════════════  GitHub Stats  ═══════════════════════ -->
 ### Activity
 
----
+<img src="./assets/rule.svg" width="100%" height="2" alt="">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=hanhojinx&show_icons=true&hide_border=true&bg_color=00000000&title_color=3E8FA6&icon_color=3E8FA6&text_color=7D8B95&count_private=true" alt="GitHub stats" />
 
@@ -60,9 +60,11 @@
 <!-- ═══════════════════════  Connect  ═══════════════════════ -->
 ### Contact
 
-<hr style="border: 0.05px solid #e1e4e8;">
+<img src="./assets/rule.svg" width="100%" height="2" alt="">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hojin-han-362596302/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seupjak@korea.ac.kr)
 [![Blog](https://img.shields.io/badge/Blog-222222?style=flat-square&logo=githubpages&logoColor=white)](https://blog.naver.com/seupjak_)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/hanhojinx)
+
+<img src="./assets/rule.svg" width="100%" height="5" alt="">

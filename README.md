@@ -49,8 +49,8 @@
 </p>
 
 <p align="center">
-  <img height="240" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanhojinx&theme=transparent&title_color=3E8FA6&text_color=7D8B95&chart_color=3E8FA6&border_color=00000000" alt="Top languages by commit" />
-  <img height="240" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hanhojinx&theme=transparent&title_color=3E8FA6&text_color=7D8B95&chart_color=3E8FA6&border_color=00000000&utcOffset=9" alt="Productive time" />
+  <img height="240" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanhojinx&theme=transparent&title_color=A89A8C&text_color=8B8D98" alt="Top languages by commit" />
+  <img height="240" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hanhojinx&theme=transparent&title_color=A89A8C&text_color=8B8D98&chart_color=A89A8C&utcOffset=9" alt="Productive time" />
 </p>
 
 <!-- ═══════════════════════  Connect  ═══════════════════════ -->

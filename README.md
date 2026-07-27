@@ -44,11 +44,6 @@
 
 <img src="./assets/rule.svg" width="100%" height="2" alt="">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hanhojinx&show_icons=true&hide_border=true&bg_color=00000000&title_color=3E8FA6&icon_color=3E8FA6&text_color=7D8B95&count_private=true" alt="GitHub stats" />
-
-<br/>
-<br/>
-
 <p align="center">
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanhojinx&theme=transparent" alt="Top languages by commit" />
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanhojinx&theme=transparent" alt="Top languages by repo" />

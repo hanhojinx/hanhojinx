@@ -45,7 +45,7 @@
 <img src="./assets/rule.svg" width="100%" height="2" alt="">
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanhojinx&theme=transparent&title_color=3E8FA6&text_color=7D8B95&icon_color=9FB3BF&chart_color=3E8FA6&border_color=00000000" alt="Profile summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanhojinx&theme=transparent&title_color=8A7F72&text_color=8B8D98&icon_color=A89A8C&chart_color=A89A8C" alt="Profile summary" />
 </p>
 
 <p align="center">

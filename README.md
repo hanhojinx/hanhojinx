@@ -13,7 +13,7 @@
 <!-- ═══════════════════════  About  ═══════════════════════ -->
 ### About
 
----
+<img src="./assets/rule.svg" width="100%" height="2" alt="">
 
 - Now conducting research on **LLM Provenance**
 - Currently interested in **Agentic AI**

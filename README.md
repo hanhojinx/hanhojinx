@@ -45,12 +45,12 @@
 <img src="./assets/rule.svg" width="100%" height="2" alt="">
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanhojinx&theme=transparent" alt="Profile summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanhojinx&theme=transparent&title_color=3E8FA6&text_color=7D8B95&icon_color=9FB3BF&chart_color=3E8FA6&border_color=00000000" alt="Profile summary" />
 </p>
 
 <p align="center">
-  <img height="240" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanhojinx&theme=transparent" alt="Top languages by commit" />
-  <img height="240" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hanhojinx&theme=transparent&utcOffset=9" alt="Productive time" />
+  <img height="240" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanhojinx&theme=transparent&title_color=3E8FA6&text_color=7D8B95&chart_color=3E8FA6&border_color=00000000" alt="Top languages by commit" />
+  <img height="240" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hanhojinx&theme=transparent&title_color=3E8FA6&text_color=7D8B95&chart_color=3E8FA6&border_color=00000000&utcOffset=9" alt="Productive time" />
 </p>
 
 <!-- ═══════════════════════  Connect  ═══════════════════════ -->

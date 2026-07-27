@@ -12,7 +12,8 @@
 
 <!-- ═══════════════════════  About  ═══════════════════════ -->
 ### About
-___
+
+---
 
 - Now conducting research on **LLM Provenance**
 - Currently interested in **Agentic AI**
@@ -23,6 +24,7 @@ ___
 
 <!-- ═══════════════════════  Tech Stack  ═══════════════════════ -->
 ### Tech Stack
+
 ---
 
 ![Python](https://img.shields.io/badge/Python-06090C?style=flat-square&logo=python&logoColor=9FB3BF)
@@ -39,6 +41,7 @@ ___
 
 <!-- ═══════════════════════  GitHub Stats  ═══════════════════════ -->
 ### Activity
+
 ---
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=hanhojinx&show_icons=true&hide_border=true&bg_color=00000000&title_color=3E8FA6&icon_color=3E8FA6&text_color=7D8B95&count_private=true" alt="GitHub stats" />
@@ -57,7 +60,8 @@ ___
 
 <!-- ═══════════════════════  Connect  ═══════════════════════ -->
 ### Contact
----
+
+<hr style="border: 0.5px solid #e1e4e8;">
 
 <div align="center">
 

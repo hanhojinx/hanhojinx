@@ -2,8 +2,6 @@
 
 <img src="./assets/banner.webp" alt="Hojin Han (@hanhojinx)" width="100%">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Hojin%20Han&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Security%20Researcher&descSize=16&descAlignY=60)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A1A1AA&center=true&vCenter=true&width=520&lines=Security+Researcher;Software+Developer;Essayist)](https://git.io/typing-svg)
 
 ![profile views](https://komarev.com/ghpvc/?username=hanhojinx&color=4b6cb7&style=flat-square&label=Profile+Views)

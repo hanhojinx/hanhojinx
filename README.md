@@ -62,11 +62,7 @@
 
 <hr style="border: 0.05px solid #e1e4e8;">
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hojin-han-362596302/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seupjak@korea.ac.kr)
 [![Blog](https://img.shields.io/badge/Blog-222222?style=flat-square&logo=githubpages&logoColor=white)](https://blog.naver.com/seupjak_)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/hanhojinx)
-
-</div>

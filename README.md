@@ -79,7 +79,9 @@
 </div>
 
 <!-- ═══════════════════════  Footer  ═══════════════════════ -->
+<div align="center">
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4b6cb7&height=120&section=footer)
+</div>
 
 
 

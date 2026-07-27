@@ -85,32 +85,3 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4b6cb7&height=120&section=footer)
 
 </div>
-
-
-
-
-
-
-
-
-
-
-## Tech Stack
-Languages & Frameworks
-
-Tools & Platforms
-
-## Who Am I?
-> Hello, I am currently a student majoring in Computer Science & Engineering.
-- 🎯 I specialize in the fields of **Cybersecurity**
-- 🌐 I regularly publish articles on **[Brunch](https://brunch.co.kr/@seupjak)**
-- 📰 You can also check my private writings on **[SeupArchive(Naver Blog)](https://blog.naver.com/seupjak_)**
-- 🌱 I’m currently interested in **MLOps/LLMOps**
-
-## Contacts
-- Email: seupjak@korea.ac.kr
-- Linktree: [@seupjak](https://linktr.ee/permafrost_)
-- Instagram: [@hanhojin.official](https://www.instagram.com/hanhojin.official/)
-- X: [@hanhojinx](https://x.com/hanhojinx?s=11)
-- My [CV Page](https://hanhojin.netlify.app/)
-

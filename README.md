@@ -12,6 +12,7 @@
 
 <!-- ═══════════════════════  About  ═══════════════════════ -->
 ### About
+
 --
 
 - Now conducting research on **LLM Provenance**
@@ -23,6 +24,7 @@
 
 <!-- ═══════════════════════  Tech Stack  ═══════════════════════ -->
 ### Tech Stack
+
 --
 
 ![Python](https://img.shields.io/badge/Python-06090C?style=flat-square&logo=python&logoColor=9FB3BF)
@@ -39,6 +41,7 @@
 
 <!-- ═══════════════════════  GitHub Stats  ═══════════════════════ -->
 ### Activity
+
 --
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=hanhojinx&show_icons=true&hide_border=true&bg_color=00000000&title_color=3E8FA6&icon_color=3E8FA6&text_color=7D8B95&count_private=true" alt="GitHub stats" />
@@ -57,6 +60,7 @@
 
 <!-- ═══════════════════════  Connect  ═══════════════════════ -->
 ### Contact
+
 --
 
 <div align="center">
@@ -65,13 +69,5 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seupjak@korea.ac.kr)
 [![Blog](https://img.shields.io/badge/Blog-222222?style=flat-square&logo=githubpages&logoColor=white)](https://blog.naver.com/seupjak_)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/hanhojinx)
-
-</div>
-
-
-<div align="center">
-<!-- ═══════════════════════  Footer  ═══════════════════════ -->
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4b6cb7&height=120&section=footer)
 
 </div>

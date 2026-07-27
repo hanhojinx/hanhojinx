@@ -49,9 +49,10 @@
 <br/>
 <br/>
 
-<!-- 커밋 기준 언어 통계 (위의 top-langs 카드는 '코드 용량' 기준이라 결과가 다를 수 있습니다) -->
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanhojinx&theme=transparent" alt="top languages by commit" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanhojinx&theme=transparent" alt="repos per language" />
+<p align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanhojinx&theme=transparent" alt="Top languages by commit" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanhojinx&theme=transparent" alt="Top languages by repo" />
+</p>
 
 </div>
 

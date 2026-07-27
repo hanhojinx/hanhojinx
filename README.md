@@ -11,11 +11,11 @@
 <br/>
 
 <!-- ═══════════════════════  About  ═══════════════════════ -->
-## About Me
+## About
 
-- Now conducting research on **_LLM Provenance_**
-- Currently interested in **_Agentic AI_**
-- Always open to conversations about **_Security for AI & AI for Security_**
+- Now conducting research on **LLM Provenance**
+- Currently interested in **Agentic AI**
+- Always open to conversations about **Security for AI & AI for Security**
 - Contact: **seupjak@korea.ac.kr**
 
 <br/>
@@ -25,35 +25,23 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-06090C?style=flat-square&logo=python&logoColor=9FB3BF)
+![C++](https://img.shields.io/badge/C%2B%2B-06090C?style=flat-square&logo=cplusplus&logoColor=9FB3BF)
+![TypeScript](https://img.shields.io/badge/TypeScript-06090C?style=flat-square&logo=typescript&logoColor=9FB3BF)
+![Java](https://img.shields.io/badge/Java-06090C?style=flat-square&logo=openjdk&logoColor=9FB3BF)
 
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-06090C?style=flat-square&logo=pytorch&logoColor=9FB3BF)
+![React](https://img.shields.io/badge/React-06090C?style=flat-square&logo=react&logoColor=9FB3BF)
+![Node.js](https://img.shields.io/badge/Node.js-06090C?style=flat-square&logo=nodedotjs&logoColor=9FB3BF)
+![Docker](https://img.shields.io/badge/Docker-06090C?style=flat-square&logo=docker&logoColor=9FB3BF)
 
 <br/>
 
 <!-- ═══════════════════════  GitHub Stats  ═══════════════════════ -->
-## GitHub Stats
+## Activity
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hanhojinx&show_icons=true&hide_border=true&bg_color=00000000&title_color=4B6CB7&icon_color=4B6CB7&text_color=808080&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanhojinx&layout=compact&hide_border=true&bg_color=00000000&title_color=4B6CB7&text_color=808080&langs_count=8" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=hanhojinx&hide_border=true&background=00000000&stroke=4B6CB7&ring=4B6CB7&fire=4B6CB7&currStreakNum=4B6CB7&currStreakLabel=4B6CB7&sideNums=808080&sideLabels=808080&dates=808080&titleColor=4B6CB7" alt="streak" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hanhojinx&show_icons=true&hide_border=true&bg_color=00000000&title_color=3E8FA6&icon_color=3E8FA6&text_color=7D8B95&count_private=true" alt="GitHub stats" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanhojinx&theme=transparent" alt="Top languages by commit" />
 
 <br/>
 <br/>

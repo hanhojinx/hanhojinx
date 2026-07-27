@@ -4,6 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=4B6CB7&center=true&vCenter=true&width=520&lines=Welcome+to+My+Space!;I'm+Open+to+Any+DMs+or+Collaboration;Feel+Free+to+Reach+Out)](https://git.io/typing-svg)
 
+![profile views](https://komarev.com/ghpvc/?username=hanhojinx&color=4b6cb7&style=flat-square&label=Profile+Views)
+
+</div>
+
+<br/>
+
 [![trophy](https://trophy.ryglcloud.net/?username=hanhojinx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seupjak)](https://solved.ac/seupjak/)

@@ -1,10 +1,8 @@
 <div align="center">
-  
-# Welcome to Hojin Han's Space!
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Hojin%20Han&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Security%20Researcher&descSize=16&descAlignY=60)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=4B6CB7&center=true&vCenter=true&width=520&lines=Software+Developer;Always+learning+something+new;Open+to+collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=4B6CB7&center=true&vCenter=true&width=520&lines=Welcome+to+My+Space!;Always+learning+something+new;Open+to+collaboration)](https://git.io/typing-svg)
 
 [![trophy](https://trophy.ryglcloud.net/?username=hanhojinx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
